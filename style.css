@@ -1,0 +1,150 @@
+#Football {
+    height: 100px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+body {
+    text-align: center;
+}
+
+#About {
+    padding: 20px;
+    font-size: 25px;
+    background: linear-gradient(#08f4a8 0%, #257cee 100%);
+    height: 563;
+}
+
+#MyFavouriteHobby {
+    padding: 20px;
+    font-size: 25px;
+    background: linear-gradient(#08f4a8 0%, #257cee 100%);
+    text-align: center;
+    height: 563px;
+}
+
+h1 {
+    text-shadow: 2px 2px #f8bbd0;
+    font-size: 20ppx;
+    font-family: 'New Tegomin', serif;
+}
+
+#name {
+    font-family: 'Lobster', cursive;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+p {
+    color: black;
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+    text-shadow: 2px 2px #f8bbd0;
+    font-size: 20px;
+    font-family: 'Train One', cursive;
+}
+
+#hobby {
+    font-family: 'Dancing Script', cursive
+}
+
+.main {
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+    color: black;
+    position: fixed;
+}
+
+.link {
+    float: left;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.link:hover {
+    background-color: darkturquoise;
+}
+
+MyFavouriteBook {
+    padding: 20px;
+    font-size: 25px;
+    background: linear-gradient(#08f4a8 0%, #257cee 100%);
+    text-align: center;
+    height: 800pxpx;
+
+}
+
+MyInspiration {
+    padding: 20px;
+    font-size: 25px;
+    background: linear-gradient(#08f4a8 0%, #257cee 100%);
+    text-align: center;
+    height: 563px;
+}
+
+#LightningThief {
+    width: 160px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+#CristianoRonaldo {
+    width: 160px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+a {
+    text-decoration: none;
+}
+
+article:hover {
+    color: fuchsia;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.Inspiration {
+    width: 160px;
+    transition: transform .2s;
+}
+
+.Inspiration:hover {
+    transform: scale(0.9);
+}
+
+#Contact {
+    background: firebrick;
+}
+
+#Contact iframe {
+    width: 100%
+}
+
+.Contact1 {
+    color: white;
+    text-shadow: none;
+}
+
+.Contact1 h3 {
+    display: inline;
+}
